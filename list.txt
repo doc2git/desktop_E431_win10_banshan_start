@@ -1,0 +1,14 @@
+mv ./A.Startup - Copy.lnk ./9A.Startup.lnk
+mv ./C.hc - Copy.lnk ./7C.hc.lnk
+mv ./M.WWW - Copy.lnk ./7M.WWW.lnk
+mv ./N.BaiduNetdiskDownload - Copy.lnk ./9N.BaiduNetdiskDownload.lnk
+mv ./N.F_Downloads - Copy.lnk ./9N.F_Downloads.lnk
+mv ./S.phpStudy - Shortcut - Copy.lnk ./8S.phpStudy - Shortcut.lnk
+mv ./U.ScrapBook_Data - Copy.lnk ./9U.ScrapBook_Data.lnk
+mv ./W.site_www - Copy.lnk ./6W.site_www.lnk
+mv ./Y.clone - Copy.lnk ./4Y.clone.lnk
+mv ./Y.dede - Copy.lnk ./4Y.dede.lnk
+mv ./Y.grphp - Copy.lnk ./4Y.grphp.lnk
+mv ./Z.clone_king_v4.3_universal_site_version - Copy.lnk ./2Z.clone_king_v4.3_universal_site_version.lnk
+mv ./Z.dede_cms4 - Copy.lnk ./2Z.dede_cms4.lnk
+mv ./Z.ip_usage - Copy.lnk ./2Z.ip_usage.lnk
